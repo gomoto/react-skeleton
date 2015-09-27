@@ -28,6 +28,7 @@ Install Compass:
 
 ```
 sudo apt-get install ruby-dev
+sudo apt-get install rubygems
 sudo gem install compass
 ```
 
