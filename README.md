@@ -27,8 +27,7 @@ sudo npm install -g npm
 Install Compass:
 
 ```
-sudo apt-get install build-essential
-sudo apt-get install ruby-dev
+sudo apt-get install ruby ruby-dev build-essential
 sudo gem install compass
 ```
 
